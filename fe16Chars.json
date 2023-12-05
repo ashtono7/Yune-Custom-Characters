@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Petra",
+    "portraitPath": "portraits/FE16/petra.png",
+    "paletteString": "344F7D53DE325A2E91212C2565109E734D20343DF9512106A516CD085415BE09",
+    "description1": "Princess of Brigid, she is",
+    "description2": "getting used to the language.",
+    "characterClass": "MYRMIDON_F",
+    "level": 1,
+    "bases": {
+      "hp": 1,
+      "str": 0,
+      "skl": 5,
+      "spd": 5,
+      "def": 0,
+      "res": 1,
+      "lck": 5
+    },
+    "growths": {
+      "hp": 40,
+      "str": 35,
+      "skl": 55,
+      "spd": 55,
+      "def": 20,
+      "res": 55,
+      "lck": 45
+    },
+    "weaponRanks": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 4,
+    "eyeY": 4,
+    "mouthX": 2,
+    "mouthY": 6
+  }
+]
