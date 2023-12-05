@@ -15,6 +15,10 @@ Here are the characters currently implemented.
 
 Red Pikmin
 
+### Fire Emblem 16: Three Houses
+
+Petra
+
 ## TODO
 
 Characters from FE engage<br>
