@@ -41,5 +41,48 @@
     "eyeY": 4,
     "mouthX": 2,
     "mouthY": 6
+  },
+  {
+    "name": "Dmitri",
+    "portraitPath": "portraits/FE16/dmitri.png",
+    "paletteString": "344FA620FF635F3B7D2AD3252C25E454BD77727B524E4A2DE7205C33BA220A62",
+    "description1": "Prince of Feargus, aggressive",
+    "description2": "yet trustworthy.",
+    "characterClass": "EPHRAIM_LORD",
+    "level": 1,
+    "bases": {
+      "hp": 3,
+      "str": 7,
+      "skl": 3,
+      "spd": 2,
+      "def": 2,
+      "res": 0,
+      "lck": 0
+    },
+    "growths": {
+      "hp": 60,
+      "str": 60,
+      "skl": 40,
+      "spd": 40,
+      "def": 60,
+      "res": 30,
+      "lck": 30
+    },
+    "weaponRanks": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 4,
+    "eyeY": 2,
+    "mouthX": 2,
+    "mouthY": 4
   }
 ]
