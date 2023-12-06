@@ -18,9 +18,11 @@ Red Pikmin
 ### Fire Emblem 16: Three Houses
 
 Petra<br>
-Dmitri
+Dmitri<br>
+Hilda
 
 ## TODO
 
 Characters from FE engage<br>
-Make program for custom .json creation (can only use one .json for shuffler at a time)
+Make program for custom .json creation (can only use one .json for shuffler at a time)<br>
+Go back and redo old characters when I git gud
