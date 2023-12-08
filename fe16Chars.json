@@ -37,7 +37,7 @@
     ],
     "constitution": 0,
     "originGame": "FE8",
-    "eyeX": 4,
+    "eyeX": 2,
     "eyeY": 4,
     "mouthX": 2,
     "mouthY": 6
@@ -88,7 +88,7 @@
   {
     "name": "Hilda",
     "portraitPath": "portraits/FE16/hilda.png",
-    "paletteString": "344FDF6F3F477D2ED3252C258710DF6A1D5A783D8D294C25E9189B105608BF77",
+    "paletteString": "344FDF6F3F477D2ED3252C2587103F737D62783D8D294C25E9189B105608BF77",
     "description1": "Only daughter of House Goneril,",
     "description2": "pays attention to detail.",
     "characterClass": "PIRATE",
@@ -124,8 +124,8 @@
     "constitution": 0,
     "originGame": "FE8",
     "eyeX": 2,
-    "eyeY": 2,
-    "mouthX": 2,
-    "mouthY": 4
+    "eyeY": 4,
+    "mouthX": 0,
+    "mouthY": 6
   }
 ]
