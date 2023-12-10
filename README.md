@@ -19,7 +19,8 @@ Red Pikmin
 
 Petra<br>
 Dmitri<br>
-Hilda
+Hilda<br>
+Seteth
 
 ## TODO
 
