@@ -127,5 +127,48 @@
     "eyeY": 4,
     "mouthX": 0,
     "mouthY": 6
+  },
+  {
+    "name": "Seteth",
+    "portraitPath": "portraits/FE16/seteth.png",
+    "paletteString": "344FDF6F3F477D2ED3252C25E410464AA63546294330A3382545BA169D23BF77",
+    "description1": "Archbishop Rhea's retainer,",
+    "description2": "pretty mysterious.",
+    "characterClass": "WYVERN_RIDER",
+    "level": 1,
+    "bases": {
+      "hp": 4,
+      "str": 4,
+      "skl": 2,
+      "spd": 2,
+      "def": 3,
+      "res": 0,
+      "lck": 1
+    },
+    "growths": {
+      "hp": 60,
+      "str": 50,
+      "skl": 30,
+      "spd": 40,
+      "def": 45,
+      "res": 20,
+      "lck": 60
+    },
+    "weaponRanks": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 2,
+    "eyeY": 2,
+    "mouthX": 2,
+    "mouthY": 4
   }
 ]
