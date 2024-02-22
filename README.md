@@ -20,7 +20,8 @@ Red Pikmin
 Petra<br>
 Dmitri<br>
 Hilda<br>
-Seteth
+Seteth<br>
+Claude
 
 ## TODO
 
