@@ -80,7 +80,7 @@
     ],
     "constitution": 0,
     "originGame": "FE8",
-    "eyeX": 4,
+    "eyeX": 2,
     "eyeY": 2,
     "mouthX": 2,
     "mouthY": 4
@@ -125,7 +125,7 @@
     "originGame": "FE8",
     "eyeX": 2,
     "eyeY": 4,
-    "mouthX": 0,
+    "mouthX": 2,
     "mouthY": 6
   },
   {
@@ -170,5 +170,48 @@
     "eyeY": 2,
     "mouthX": 2,
     "mouthY": 4
+  },
+  {
+    "name": "Claude",
+    "portraitPath": "portraits/FE16/claude.png",
+    "paletteString": "344FA6205F477D2EF725911D2C25E81809214B29BA221B135C335C5B5B6BDE7B",
+    "description1": "Leader of the Alliance,",
+    "description2": "he's very strategic.",
+    "characterClass": "WYVERN_RIDER",
+    "level": 1,
+    "bases": {
+      "hp": 6,
+      "str": 4,
+      "skl": 3,
+      "spd": 3,
+      "def": 3,
+      "res": 0,
+      "lck": 2
+    },
+    "growths": {
+      "hp": 70,
+      "str": 50,
+      "skl": 60,
+      "spd": 30,
+      "def": 45,
+      "res": 20,
+      "lck": 60
+    },
+    "weaponRanks": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 2,
+    "eyeY": 4,
+    "mouthX": 2,
+    "mouthY": 6
   }
 ]
