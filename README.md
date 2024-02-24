@@ -23,7 +23,8 @@ Hilda<br>
 Seteth<br>
 Claude<br>
 Mercedes<br>
-Edelgard
+Edelgard<br>
+Rhea
 
 ## TODO
 
