@@ -299,5 +299,48 @@
     "eyeY": 4,
     "mouthX": 2,
     "mouthY": 6
+  },
+  {
+    "name": "Rhea",
+    "portraitPath": "portraits/FE16/rhea.png",
+    "paletteString": "344F2304DF6F3F477D2ED3252C25C93D115FD767BA2E7F3FFF4FD141DC73FF7F",
+    "description1": "The archbishop of the Church,",
+    "description2": "of Seiros, gentle yet stern.",
+    "characterClass": "MERCENARY",
+    "level": 1,
+    "bases": {
+      "hp": 3,
+      "str": 1,
+      "skl": 5,
+      "spd": 3,
+      "def": 0,
+      "res": 0,
+      "lck": 3
+    },
+    "growths": {
+      "hp": 90,
+      "str": 45,
+      "skl": 30,
+      "spd": 30,
+      "def": 10,
+      "res": 40,
+      "lck": 60
+    },
+    "weaponRanks": [
+      0,
+      0,
+      31,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 2,
+    "eyeY": 4,
+    "mouthX": 2,
+    "mouthY": 6
   }
 ]
