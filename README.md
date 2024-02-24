@@ -21,7 +21,9 @@ Petra<br>
 Dmitri<br>
 Hilda<br>
 Seteth<br>
-Claude
+Claude<br>
+Mercedes<br>
+Edelgard
 
 ## TODO
 
