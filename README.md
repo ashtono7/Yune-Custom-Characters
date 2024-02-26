@@ -24,7 +24,8 @@ Seteth<br>
 Claude<br>
 Mercedes<br>
 Edelgard<br>
-Rhea
+Rhea<br>
+Kronya
 
 ## TODO
 
