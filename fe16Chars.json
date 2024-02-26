@@ -263,7 +263,7 @@
     "paletteString": "344F2304DF6F3F477D2ED3252C25FF7F39673146C5286214961C70187F3F5C7F",
     "description1": "The flame emperor of Adrestia,",
     "description2": "determined and bold.",
-    "characterClass": "KNIGHT_F",
+    "characterClass": "LORD_HECTOR",
     "level": 1,
     "bases": {
       "hp": 1,
@@ -294,7 +294,7 @@
       0
     ],
     "constitution": 0,
-    "originGame": "FE8",
+    "originGame": "FE7",
     "eyeX": 2,
     "eyeY": 4,
     "mouthX": 2,
@@ -327,9 +327,9 @@
       "lck": 60
     },
     "weaponRanks": [
-      0,
-      0,
       31,
+      0,
+      0,
       0,
       0,
       0,
@@ -341,6 +341,49 @@
     "eyeX": 2,
     "eyeY": 4,
     "mouthX": 2,
+    "mouthY": 6
+  },
+  {
+    "name": "Kronya",
+    "portraitPath": "portraits/FE16/kronya.png",
+    "paletteString": "344F6408DF7FD766125E8F55EA38D6057B269F42630CA514C6189F39FF3DFF7F",
+    "description1": "Very creepy and bloodthirsty, but",
+    "description2": "I guess she's with us.",
+    "characterClass": "THIEF_F",
+    "level": 1,
+    "bases": {
+      "hp": 5,
+      "str": 1,
+      "skl": 2,
+      "spd": 5,
+      "def": 0,
+      "res": 0,
+      "lck": 2
+    },
+    "growths": {
+      "hp": 70,
+      "str": 35,
+      "skl": 40,
+      "spd": 50,
+      "def": 10,
+      "res": 30,
+      "lck": 70
+    },
+    "weaponRanks": [
+      31,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE6",
+    "eyeX": 4,
+    "eyeY": 4,
+    "mouthX": 4,
     "mouthY": 6
   }
 ]
