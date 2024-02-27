@@ -252,9 +252,9 @@
     ],
     "constitution": 0,
     "originGame": "FE8",
-    "eyeX": 2,
+    "eyeX": 4,
     "eyeY": 4,
-    "mouthX": 2,
+    "mouthX": 4,
     "mouthY": 6
   },
   {
@@ -306,7 +306,7 @@
     "paletteString": "344F2304DF6F3F477D2ED3252C25C93D115FD767BA2E7F3FFF4FD141DC73FF7F",
     "description1": "The archbishop of the Church,",
     "description2": "of Seiros, gentle yet stern.",
-    "characterClass": "MERCENARY",
+    "characterClass": "EIRIKA_LORD",
     "level": 1,
     "bases": {
       "hp": 3,
@@ -381,6 +381,49 @@
     ],
     "constitution": 0,
     "originGame": "FE6",
+    "eyeX": 4,
+    "eyeY": 4,
+    "mouthX": 4,
+    "mouthY": 6
+  },
+  {
+    "name": "Byleth",
+    "portraitPath": "portraits/FE16/byleth.png",
+    "paletteString": "344F2304DF6F3F477D2ED3252C25C93D115FD767BA2E7F3FFF4FA514E720FF7F",
+    "description1": "A professor at Garreg Mach,",
+    "description2": "wise yet teachable.",
+    "characterClass": "EIRIKA_LORD",
+    "level": 1,
+    "bases": {
+      "hp": 3,
+      "str": 3,
+      "skl": 2,
+      "spd": 2,
+      "def": 1,
+      "res": 1,
+      "lck": 3
+    },
+    "growths": {
+      "hp": 50,
+      "str": 55,
+      "skl": 40,
+      "spd": 40,
+      "def": 30,
+      "res": 30,
+      "lck": 60
+    },
+    "weaponRanks": [
+      31,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
     "eyeX": 4,
     "eyeY": 4,
     "mouthX": 4,
