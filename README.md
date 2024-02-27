@@ -25,7 +25,8 @@ Claude<br>
 Mercedes<br>
 Edelgard<br>
 Rhea<br>
-Kronya
+Kronya<br>
+Byleth
 
 ## TODO
 
