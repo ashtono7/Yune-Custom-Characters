@@ -41,5 +41,48 @@
     "eyeY": 4,
     "mouthX": 2,
     "mouthY": 6
+  },
+  {
+    "name": "Alfred",
+    "portraitPath": "portraits/FE17/alfred.png",
+    "paletteString": "344F4214DF6F3F477D2ED3252C25B01DD7427C57C801F306A128A7517456BD73",
+    "description1": "The crown prince of Firene.",
+    "description2": "Loves working out and alpacas.",
+    "characterClass": "CAVALIER",
+    "level": 1,
+    "bases": {
+      "hp": 2,
+      "str": 1,
+      "skl": 3,
+      "spd": 4,
+      "def": 1,
+      "res": 2,
+      "lck": 2
+    },
+    "growths": {
+      "hp": 35,
+      "str": 70,
+      "skl": 50,
+      "spd": 40,
+      "def": 20,
+      "res": 30,
+      "lck": 60
+    },
+    "weaponRanks": [
+      31,
+      71,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 4,
+    "eyeY": 4,
+    "mouthX": 4,
+    "mouthY": 6
   }
 ]
