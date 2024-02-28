@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Red Pikmin",
+    "portraitPath": "portraits/MEMES/pikminr.png",
+    "paletteString": "344F40059C73F75E5A6BFA0C1803D70C71009404A5149F214F0029255F3EBF4E",
+    "description1": "These look like the carrots of",
+    "description2": "my homeland.",
+    "characterClass": "SOLDIER",
+    "level": 1,
+    "bases": {
+      "hp": 0,
+      "str": 5,
+      "skl": 5,
+      "spd": 1,
+      "def": 0,
+      "res": 4,
+      "lck": 0
+    },
+    "growths": {
+      "hp": 40,
+      "str": 70,
+      "skl": 70,
+      "spd": 25,
+      "def": 20,
+      "res": 50,
+      "lck": 30
+    },
+    "weaponRanks": [
+      0,
+      31,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 2,
+    "eyeY": 6,
+    "mouthX": 2,
+    "mouthY": 8
+  }
+]

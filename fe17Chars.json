@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Alear",
+    "portraitPath": "portraits/FE16/alear.png",
+    "paletteString": "344F4508DF6F3F477D2ED3252C250820A32804397510B918BA26AF495556BE73",
+    "description1": "The recently awakened Divine",
+    "description2": "Dragon.",
+    "characterClass": "EIRIKA_LORD",
+    "level": 1,
+    "bases": {
+      "hp": 3,
+      "str": 3,
+      "skl": 2,
+      "spd": 2,
+      "def": 1,
+      "res": 1,
+      "lck": 3
+    },
+    "growths": {
+      "hp": 70,
+      "str": 55,
+      "skl": 50,
+      "spd": 40,
+      "def": 20,
+      "res": 20,
+      "lck": 50
+    },
+    "weaponRanks": [
+      31,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 2,
+    "eyeY": 4,
+    "mouthX": 2,
+    "mouthY": 6
+  }
+]
