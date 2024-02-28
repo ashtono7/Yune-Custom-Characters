@@ -28,6 +28,8 @@ Rhea<br>
 Kronya<br>
 Byleth
 
+### Fire Emblem 17: Engage
+Alear
 ## TODO
 
 Characters from FE engage<br>
