@@ -29,8 +29,11 @@ Kronya<br>
 Byleth
 
 ### Fire Emblem 17: Engage
-Alear
+
+Alear<br>
+Alfred
+
 ## TODO
 
-Characters from FE engage<br>
-Make program for custom .json creation (can only use one .json for shuffler at a time)
+Make program for custom .json creation (can only use one .json for shuffler at a time)<br>
+Characters from other franchises as close to FE8 look and feel as possible
