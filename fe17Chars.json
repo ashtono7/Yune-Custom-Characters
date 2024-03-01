@@ -2,7 +2,7 @@
   {
     "name": "Alear",
     "portraitPath": "portraits/FE16/alear.png",
-    "paletteString": "344F4508DF6F3F477D2ED3252C250820A32804397510B918BA26AF495556BE73",
+    "paletteString": "344F4508DF6F3F477D2ED3252C250820A328234575107C10BA26AF495556BE73",
     "description1": "The recently awakened Divine",
     "description2": "Dragon.",
     "characterClass": "EIRIKA_LORD",
@@ -47,7 +47,7 @@
     "portraitPath": "portraits/FE17/alfred.png",
     "paletteString": "344F4214DF6F3F477D2ED3252C25B01DD7427C57C801F306A128A7517456BD73",
     "description1": "The crown prince of Firene.",
-    "description2": "Loves working out and alpacas.",
+    "description2": "Loves working out.",
     "characterClass": "CAVALIER",
     "level": 1,
     "bases": {
@@ -71,6 +71,49 @@
     "weaponRanks": [
       31,
       71,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 4,
+    "eyeY": 4,
+    "mouthX": 4,
+    "mouthY": 6
+  },
+  {
+    "name": "Chloe",
+    "portraitPath": "portraits/FE17/chloe.png",
+    "paletteString": "344F4214DF6F3F477D2ED3252C254639494E0D63A6316A3EBA2EFF4F934EBD73",
+    "description1": "Pegasus knight of Firene, she's",
+    "description2": "sincere and loves fairy tales.",
+    "characterClass": "PEGASUS_KNIGHT",
+    "level": 1,
+    "bases": {
+      "hp": 0,
+      "str": 1,
+      "skl": 4,
+      "spd": 5,
+      "def": 0,
+      "res": 2,
+      "lck": 3
+    },
+    "growths": {
+      "hp": 50,
+      "str": 40,
+      "skl": 50,
+      "spd": 60,
+      "def": 25,
+      "res": 30,
+      "lck": 50
+    },
+    "weaponRanks": [
+      0,
+      31,
       0,
       0,
       0,

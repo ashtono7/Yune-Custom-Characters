@@ -263,7 +263,7 @@
     "paletteString": "344F2304DF6F3F477D2ED3252C25FF7F39673146C5286214961C70187F3F5C7F",
     "description1": "The flame emperor of Adrestia,",
     "description2": "determined and bold.",
-    "characterClass": "LORD_HECTOR",
+    "characterClass": "KNIGHT_F",
     "level": 1,
     "bases": {
       "hp": 1,
