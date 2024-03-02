@@ -1,7 +1,7 @@
 [
   {
     "name": "Alear",
-    "portraitPath": "portraits/FE16/alear.png",
+    "portraitPath": "portraits/FE17/alear.png",
     "paletteString": "344F4508DF6F3F477D2ED3252C250820A328234575107C10BA26AF495556BE73",
     "description1": "The recently awakened Divine",
     "description2": "Dragon.",
@@ -114,6 +114,49 @@
     "weaponRanks": [
       0,
       31,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 4,
+    "eyeY": 4,
+    "mouthX": 4,
+    "mouthY": 6
+  },
+  {
+    "name": "Diamant",
+    "portraitPath": "portraits/FE17/diamant.png",
+    "paletteString": "344F4404FF635F3B7D2AD3252C2509084E08D10C360CBA0C8610AD31934EBD73",
+    "description1": "Crown prince of Brodia, tough yet",
+    "description2": "cautious.",
+    "characterClass": "MERCENARY",
+    "level": 1,
+    "bases": {
+      "hp": 2,
+      "str": 4,
+      "skl": 3,
+      "spd": 1,
+      "def": 4,
+      "res": 0,
+      "lck": 1
+    },
+    "growths": {
+      "hp": 70,
+      "str": 50,
+      "skl": 60,
+      "spd": 30,
+      "def": 35,
+      "res": 20,
+      "lck": 40
+    },
+    "weaponRanks": [
+      31,
+      0,
       0,
       0,
       0,
