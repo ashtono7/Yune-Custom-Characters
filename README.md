@@ -31,7 +31,9 @@ Byleth
 ### Fire Emblem 17: Engage
 
 Alear<br>
-Alfred
+Alfred<br>
+Chloé<br>
+Diamant
 
 ## TODO
 
