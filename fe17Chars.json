@@ -170,5 +170,48 @@
     "eyeY": 4,
     "mouthX": 4,
     "mouthY": 6
+  },
+  {
+    "name": "Alcryst",
+    "portraitPath": "portraits/FE17/alcryst.png",
+    "paletteString": "344F6608FF635F3B7D2AD3252C256020A1280231AE14360CBA0CAD31934EBD73",
+    "description1": "A prince of Brodia, brave but",
+    "description2": "can be hard on himself.",
+    "characterClass": "ARCHER",
+    "level": 1,
+    "bases": {
+      "hp": 3,
+      "str": 1,
+      "skl": 4,
+      "spd": 4,
+      "def": 3,
+      "res": 0,
+      "lck": 0
+    },
+    "growths": {
+      "hp": 70,
+      "str": 30,
+      "skl": 60,
+      "spd": 50,
+      "def": 40,
+      "res": 15,
+      "lck": 40
+    },
+    "weaponRanks": [
+      0,
+      0,
+      0,
+      31,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 4,
+    "eyeY": 4,
+    "mouthX": 4,
+    "mouthY": 6
   }
 ]
