@@ -33,7 +33,9 @@ Byleth
 Alear<br>
 Alfred<br>
 Chloé<br>
-Diamant
+Diamant<br>
+Alcryst<br>
+Ivy
 
 ## TODO
 
