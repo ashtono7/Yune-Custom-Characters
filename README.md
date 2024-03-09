@@ -35,7 +35,10 @@ Alfred<br>
 Chloé<br>
 Diamant<br>
 Alcryst<br>
-Ivy
+Ivy<br>
+Kagetsu<br>
+Timerra<br>
+Veyle
 
 ## TODO
 
