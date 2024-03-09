@@ -45,7 +45,7 @@
   {
     "name": "Alfred",
     "portraitPath": "portraits/FE17/alfred.png",
-    "paletteString": "344F4214DF6F3F477D2ED3252C25B01DD7427C57C801F306A128A7517456BD73",
+    "paletteString": "344F4214FF6B7F479E2ED91D6E2DB01DD7427C57C801F306A128A7517456BD73",
     "description1": "The crown prince of Firene.",
     "description2": "Loves working out.",
     "characterClass": "CAVALIER",
@@ -174,7 +174,7 @@
   {
     "name": "Alcryst",
     "portraitPath": "portraits/FE17/alcryst.png",
-    "paletteString": "344F6608FF635F3B7D2AD3252C256020A1280231AE14360CBA0CAD31934EBD73",
+    "paletteString": "344F6608FF6B7F479E2ED91D6E2D6020A1280231AE14360CBA0CAD31934EBD73",
     "description1": "A prince of Brodia, brave but",
     "description2": "can be hard on himself.",
     "characterClass": "ARCHER",
@@ -256,5 +256,134 @@
     "eyeY": 4,
     "mouthX": 4,
     "mouthY": 6
+  },
+  {
+    "name": "Kagetsu",
+    "portraitPath": "portraits/FE17/kagetsu.png",
+    "paletteString": "344F4214FF635F3B7D2AD3252C25A4280631893D6A10AF14BA2EFF4F934EBD73",
+    "description1": "An Elusian swordsman looking for",
+    "description2": "opponents to challenge.",
+    "characterClass": "MYRMIDON",
+    "level": 1,
+    "bases": {
+      "hp": 3,
+      "str": 3,
+      "skl": 2,
+      "spd": 3,
+      "def": 1,
+      "res": 1,
+      "lck": 2
+    },
+    "growths": {
+      "hp": 70,
+      "str": 40,
+      "skl": 50,
+      "spd": 50,
+      "def": 20,
+      "res": 25,
+      "lck": 50
+    },
+    "weaponRanks": [
+      31,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 4,
+    "eyeY": 4,
+    "mouthX": 4,
+    "mouthY": 6
+  },
+  {
+    "name": "Timerra",
+    "portraitPath": "portraits/FE17/timerra.png",
+    "paletteString": "344F65085A2ED72173150E15CA10B8489F55F80E5F1FEC56705F5F32A708BD73",
+    "description1": "Crown princess of Solm, also",
+    "description2": "known as the racket of Solm.",
+    "characterClass": "RECRUIT",
+    "level": 1,
+    "bases": {
+      "hp": 2,
+      "str": 5,
+      "skl": 4,
+      "spd": 1,
+      "def": 3,
+      "res": 0,
+      "lck": 0
+    },
+    "growths": {
+      "hp": 60,
+      "str": 60,
+      "skl": 50,
+      "spd": 30,
+      "def": 40,
+      "res": 25,
+      "lck": 40
+    },
+    "weaponRanks": [
+      0,
+      0,
+      31,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 4,
+    "eyeY": 6,
+    "mouthX": 4,
+    "mouthY": 8
+  },
+  {
+    "name": "Veyle",
+    "portraitPath": "portraits/FE17/veyle.png",
+    "paletteString": "344F6508FF6B7F479E2ED91D6E2DE7184A25965A5A6FAA34EA558B5ED562DC7B",
+    "description1": "Princess of Gradlon, despite all",
+    "description2": "a very gentle fell dragon.",
+    "characterClass": "SHAMAN",
+    "level": 1,
+    "bases": {
+      "hp": 3,
+      "str": 3,
+      "skl": 4,
+      "spd": 2,
+      "def": 1,
+      "res": 0,
+      "lck": 2
+    },
+    "growths": {
+      "hp": 70,
+      "str": 45,
+      "skl": 50,
+      "spd": 35,
+      "def": 20,
+      "res": 25,
+      "lck": 60
+    },
+    "weaponRanks": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      31
+    ],
+    "constitution": 0,
+    "originGame": "FE8",
+    "eyeX": 4,
+    "eyeY": 6,
+    "mouthX": 4,
+    "mouthY": 8
   }
 ]
