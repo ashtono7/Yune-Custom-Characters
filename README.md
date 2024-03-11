@@ -38,7 +38,8 @@ Alcryst<br>
 Ivy<br>
 Kagetsu<br>
 Timerra<br>
-Veyle
+Veyle<br>
+Fogado
 
 ## TODO
 
