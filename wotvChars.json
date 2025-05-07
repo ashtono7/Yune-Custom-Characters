@@ -1,0 +1,102 @@
+  {
+    "name": "Vinera",
+    "portraitPath": "portraits/WOTV/vinera.png",
+    "paletteString": "344F24105F477D2EF725911D2C25133E5B67DE77523C9840442066280A29AF39",
+    "description1": "Assassin of Fennes, secretly",
+    "description2": "wants to be loved.",
+	"battlePalette": {
+		"hair": ["#f2f0ee", "#dbd0ca", "#99837c"],
+		"primary": ["#7f6b76", "#524353", "#3b2a3d"],
+		"secondary": ["#341f54", "#211542"],
+		"tertiary": ["#c22381", "#961578"]
+	},
+    "characterClass": "THIEF",
+	"promoted": false,
+    "level": 1,
+    "bases": {
+      "hp": 13,
+      "str": 5,
+      "skl": 7,
+      "spd": 11,
+      "def": 2,
+      "res": 1,
+      "lck": 4
+    },
+    "growths": {
+      "hp": 40,
+      "str": 50,
+      "skl": 70,
+      "spd": 65,
+      "def": 20,
+      "res": 30,
+      "lck": 30
+    },
+    "weaponRanks": [
+      31,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 5,
+	"affinity": "ice",
+    "originGame": "FE8",
+    "eyeX": 4,
+    "eyeY": 4,
+    "mouthX": 4,
+    "mouthY": 6
+  },
+  {
+    "name": "Dario",
+    "portraitPath": "portraits/WOTV/dario.png",
+    "paletteString": "344F2410FF6B7F479E2ED91D6E2DCE1175227F3F963CD934AF39734EFF7B1152",
+    "description1": "Prince of Hourne, despises",
+    "description2": "violence.",
+	"battlePalette": {
+		"hair": ["#fadd7d", "#a89945", "#737125"],
+		"primary": ["#f9f8f5", "#9c9b9a", "#7f6b76"],
+		"secondary": ["#cc3168", "#b0237a"],
+		"tertiary": ["#a89945"]
+	},
+    "characterClass": "CAVALIER",
+	"promoted": false,
+    "level": 1,
+    "bases": {
+      "hp": 12,
+      "str": 7,
+      "skl": 5,
+      "spd": 6,
+      "def": 5,
+      "res": 3,
+      "lck": 8
+    },
+    "growths": {
+      "hp": 50,
+      "str": 50,
+      "skl": 40,
+      "spd": 65,
+      "def": 40,
+      "res": 40,
+      "lck": 20
+    },
+    "weaponRanks": [
+      71,
+      31,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "constitution": 11,
+	"affinity": "light",
+    "originGame": "FE8",
+    "eyeX": 4,
+    "eyeY": 4,
+    "mouthX": 4,
+    "mouthY": 6
+  }
