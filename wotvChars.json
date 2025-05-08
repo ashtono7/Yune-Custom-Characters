@@ -1,14 +1,15 @@
+[
   {
     "name": "Vinera",
     "portraitPath": "portraits/WOTV/vinera.png",
-    "paletteString": "344F24105F477D2EF725911D2C25133E5B67DE77523C9840442066280A29AF39",
+    "paletteString": "344F87205F477D2EF725911D2C25133E5B67DE77523C98408830A93C0A29AF39",
     "description1": "Assassin of Fennes, secretly",
     "description2": "wants to be loved.",
 	"battlePalette": {
 		"hair": ["#f2f0ee", "#dbd0ca", "#99837c"],
-		"primary": ["#7f6b76", "#524353", "#3b2a3d"],
-		"secondary": ["#341f54", "#211542"],
-		"tertiary": ["#c22381", "#961578"]
+		"primary": ["#7f6b76", "#524353", "#44304b"],
+		"secondary": ["#c22381", "#961578"],
+		"tertiary": ["#482e78", "#412063"]
 	},
     "characterClass": "THIEF",
 	"promoted": false,
@@ -100,3 +101,4 @@
     "mouthX": 4,
     "mouthY": 6
   }
+]

@@ -5,16 +5,23 @@
     "paletteString": "344F4508DF6F3F477D2ED3252C250820A328234575107C10BA26AF495556BE73",
     "description1": "The recently awakened Divine",
     "description2": "Dragon.",
+	"battlePalette": {
+		"hair": ["#e31e27", "#1f4e8c", "#440047"],
+		"primary": ["#f2eae3", "#ab97ae", "#7d6f95"],
+		"secondary": ["#d3ad4d", "#987048", "#604848"],
+		"tertiary": ["#e31e27", "#1f4e8c", "#440047"]
+	},
     "characterClass": "EIRIKA_LORD",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 3,
-      "str": 3,
-      "skl": 2,
-      "spd": 2,
-      "def": 1,
-      "res": 1,
-      "lck": 3
+      "hp": 17,
+      "str": 6,
+      "skl": 5,
+      "spd": 5,
+      "def": 3,
+      "res": 2,
+      "lck": 8
     },
     "growths": {
       "hp": 70,
@@ -35,7 +42,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 5,
+	"affinity": "light",
     "originGame": "FE8",
     "eyeX": 2,
     "eyeY": 4,
@@ -48,16 +56,23 @@
     "paletteString": "344F4214FF6B7F479E2ED91D6E2DB01DD7427C57C801F306A128A7517456BD73",
     "description1": "The crown prince of Firene.",
     "description2": "Loves working out.",
+	"battlePalette": {
+		"hair": ["#e4dfac", "#beb781", "#806f3c"],
+		"primary": ["#eaece5", "#a69aac", "#918399"],
+		"secondary": ["#3b68a3", "#0f2f52"],
+		"tertiary": ["#99bc0c", "#417303"]
+	},
     "characterClass": "CAVALIER",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 2,
-      "str": 1,
-      "skl": 3,
-      "spd": 4,
-      "def": 1,
-      "res": 2,
-      "lck": 2
+      "hp": 13,
+      "str": 9,
+      "skl": 5,
+      "spd": 6,
+      "def": 6,
+      "res": 4,
+      "lck": 3
     },
     "growths": {
       "hp": 35,
@@ -78,7 +93,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 11,
+	"affinity": "fire",
     "originGame": "FE8",
     "eyeX": 4,
     "eyeY": 4,
@@ -88,19 +104,26 @@
   {
     "name": "Chloe",
     "portraitPath": "portraits/FE17/chloe.png",
-    "paletteString": "344F4214DF6F3F477D2ED3252C254639494E0D63A6316A3EBA2EFF4F934EBD73",
+    "paletteString": "344F8720DF6F3F477D2ED3252C254639494E0D63A6316A3EBA2EFF4F934EBD73",
     "description1": "Pegasus knight of Firene, she's",
     "description2": "sincere and loves fairy tales.",
+	"battlePalette": {
+		"hair": ["#69c1c0", "#4b9199", "#365373"],
+		"primary": ["#eaece5", "#b7bfb3", "#9ca698"],
+		"secondary": ["#559a78", "#326964"],
+		"tertiary": ["#fff99e", "#d1af5e", "#987048"]
+	},
     "characterClass": "PEGASUS_KNIGHT",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 0,
-      "str": 1,
-      "skl": 4,
-      "spd": 5,
-      "def": 0,
-      "res": 2,
-      "lck": 3
+      "hp": 15,
+      "str": 5,
+      "skl": 7,
+      "spd": 6,
+      "def": 2,
+      "res": 6,
+      "lck": 5
     },
     "growths": {
       "hp": 50,
@@ -121,7 +144,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 11,
+	"affinity": "light",
     "originGame": "FE8",
     "eyeX": 4,
     "eyeY": 4,
@@ -134,16 +158,23 @@
     "paletteString": "344F4404FF635F3B7D2AD3252C2509084E08D10C360CBA0C8610AD31934EBD73",
     "description1": "Crown prince of Brodia, tough yet",
     "description2": "cautious.",
+	"battlePalette": {
+		"hair": ["#8f341f", "#701510", "#4d0614"],
+		"primary": ["#d02d1c", "#b50d18", "#4d0614"],
+		"secondary": ["#eaece5", "#9ca698", "#6a6965"],
+		"tertiary": null
+	},
     "characterClass": "MERCENARY",
+    "promoted": false,
     "level": 1,
     "bases": {
-      "hp": 2,
-      "str": 4,
-      "skl": 3,
-      "spd": 1,
-      "def": 4,
-      "res": 0,
-      "lck": 1
+      "hp": 17,
+      "str": 6,
+      "skl": 4,
+      "spd": 5,
+      "def": 6,
+      "res": 2,
+      "lck": 6
     },
     "growths": {
       "hp": 70,
@@ -165,6 +196,7 @@
       0
     ],
     "constitution": 0,
+	"affinity": "thunder",
     "originGame": "FE8",
     "eyeX": 4,
     "eyeY": 4,
@@ -177,16 +209,23 @@
     "paletteString": "344F6608FF6B7F479E2ED91D6E2D6020A1280231AE14360CBA0CAD31934EBD73",
     "description1": "A prince of Brodia, brave but",
     "description2": "can be hard on himself.",
+	"battlePalette": {
+		"hair": ["#154561", "#0C2E54", "#071B42"],
+		"primary": ["#D02D1C", "#B50D18", "#772A2A"],
+		"secondary": ["#EAECE5", "#9CA698", "#6A6965"],
+		"tertiary": ["#331C16"]
+	},
     "characterClass": "ARCHER",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 3,
-      "str": 1,
-      "skl": 4,
-      "spd": 4,
-      "def": 3,
-      "res": 0,
-      "lck": 0
+      "hp": 18,
+      "str": 4,
+      "skl": 8,
+      "spd": 7,
+      "def": 1,
+      "res": 1,
+      "lck": 7
     },
     "growths": {
       "hp": 70,
@@ -207,7 +246,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 5,
+	"affinity": "ice",
     "originGame": "FE8",
     "eyeX": 4,
     "eyeY": 4,
@@ -217,19 +257,26 @@
   {
     "name": "Ivy",
     "portraitPath": "portraits/FE17/ivy.png",
-    "paletteString": "344F2410DF6F3F477D2ED3252C250718B03034455518DB3442208434934EBD73",
+    "paletteString": "344F8720DF6F3F477D2ED3252C256B30B03434415534DB2C4330C438934EBD73",
     "description1": "Crown princess of Elusia, secretly",
     "description2": "a devout Divine Dragon follower.",
+	"battlePalette": {
+		"hair": ["#a64e8a", "#852e65", "#3a0534"],
+		"primary": ["#2c4285", "#273477", "#1e1660"],
+		"secondary": ["#dd315c", "#ac116b"],
+		"tertiary": ["#eaece5", "#9ca698"]
+	},
     "characterClass": "MAGE_F",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 4,
-      "str": 6,
-      "skl": 1,
-      "spd": 2,
-      "def": 1,
-      "res": 1,
-      "lck": 0
+      "hp": 17,
+      "str": 8,
+      "skl": 5,
+      "spd": 6,
+      "def": 3,
+      "res": 3,
+      "lck": 4
     },
     "growths": {
       "hp": 70,
@@ -251,6 +298,7 @@
       0
     ],
     "constitution": 0,
+	"affinity": "ice",
     "originGame": "FE8",
     "eyeX": 4,
     "eyeY": 4,
@@ -263,16 +311,23 @@
     "paletteString": "344F4214FF635F3B7D2AD3252C25A4280631893D6A10AF14BA2EFF4F934EBD73",
     "description1": "An Elusian swordsman looking for",
     "description2": "opponents to challenge.",
+	"battlePalette": {
+		"hair": ["#4c617a", "#374261", "#272a57"],
+		"primary": ["#eaece5", "#bfc6bc", "#9ca698"],
+		"secondary": ["#79282f", "#521925"],
+		"tertiary": ["#fff99e", "#d1af5e"]
+	},
     "characterClass": "MYRMIDON",
+    "promoted": false,
     "level": 1,
     "bases": {
-      "hp": 3,
-      "str": 3,
-      "skl": 2,
-      "spd": 3,
-      "def": 1,
-      "res": 1,
-      "lck": 2
+      "hp": 19,
+      "str": 6,
+      "skl": 7,
+      "spd": 5,
+      "def": 2,
+      "res": 2,
+      "lck": 5
     },
     "growths": {
       "hp": 70,
@@ -294,6 +349,7 @@
       0
     ],
     "constitution": 0,
+	"affinity": "thunder",
     "originGame": "FE8",
     "eyeX": 4,
     "eyeY": 4,
@@ -306,16 +362,23 @@
     "paletteString": "344F65085A2ED72173150E15CA10B8489F55F80E5F1FEC56705F5F32A708BD73",
     "description1": "Crown princess of Solm, also",
     "description2": "known as the racket of Solm.",
+	"battlePalette": {
+		"hair": ["#503020", "#382914", "#291e12"],
+		"primary": ["#eaece5", "#fd64a8", "#c42d97"],
+		"secondary": ["#86dbbb", "#60bfac"],
+		"tertiary": ["#fdd639", "#c7be1e"]
+	},
     "characterClass": "RECRUIT",
+    "promoted": false,
     "level": 1,
     "bases": {
-      "hp": 2,
-      "str": 5,
-      "skl": 4,
-      "spd": 1,
+      "hp": 17,
+      "str": 6,
+      "skl": 5,
+      "spd": 6,
       "def": 3,
-      "res": 0,
-      "lck": 0
+      "res": 2,
+      "lck": 7
     },
     "growths": {
       "hp": 60,
@@ -336,7 +399,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 5,
+	"affinity": "wind",
     "originGame": "FE8",
     "eyeX": 4,
     "eyeY": 6,
@@ -347,18 +411,25 @@
     "name": "Veyle",
     "portraitPath": "portraits/FE17/veyle.png",
     "paletteString": "344F6508FF6B7F479E2ED91D6E2DE7184A25965A5A6FAA34EA558B5ED562DC7B",
-    "description1": "Princess of Gradlon, despite all",
+    "description1": "Princess of Gradlon, despite all,",
     "description2": "a very gentle fell dragon.",
+	"battlePalette": {
+		"hair": ["#d7d1d8", "#50504d", "#393b34"],
+		"primary": ["#e6f5f3", "#d7d1d8", "#a9b0c2"],
+		"secondary": ["#5da4bb", "#517fad"],
+		"tertiary": null
+	},
     "characterClass": "SHAMAN",
+    "promoted": false,
     "level": 1,
     "bases": {
-      "hp": 3,
-      "str": 3,
+      "hp": 19,
+      "str": 9,
       "skl": 4,
-      "spd": 2,
+      "spd": 4,
       "def": 1,
-      "res": 0,
-      "lck": 2
+      "res": 3,
+      "lck": 6
     },
     "growths": {
       "hp": 70,
@@ -379,7 +450,8 @@
       0,
       31
     ],
-    "constitution": 0,
+    "constitution": 5,
+	"affinity": "light",
     "originGame": "FE8",
     "eyeX": 4,
     "eyeY": 6,
@@ -392,16 +464,23 @@
     "paletteString": "344F65085A2ED72173150E15CA10A708D91D3F2EF80E5F1FEC56705FF65ABD73",
     "description1": "One of the sentinels of Solm,",
     "description2": "easygoing, but mysterious.",
+	"battlePalette": {
+		"hair": ["#503020", "#382914", "#291e12"],
+		"primary": ["#eaece5", "#b2bfb2", "#8e9e8e"],
+		"secondary": ["#86dbbb", "#60bfac"],
+		"tertiary": ["#fd8c5a", "#c9743a"]
+	},
     "characterClass": "ARCHER",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 2,
-      "str": 4,
-      "skl": 3,
-      "spd": 2,
-      "def": 1,
+      "hp": 17,
+      "str": 6,
+      "skl": 7,
+      "spd": 5,
+      "def": 3,
       "res": 1,
-      "lck": 2
+      "lck": 7
     },
     "growths": {
       "hp": 70,
@@ -422,7 +501,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 5,
+	"affinity": "wind",
     "originGame": "FE8",
     "eyeX": 4,
     "eyeY": 4,
