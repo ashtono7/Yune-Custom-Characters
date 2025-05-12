@@ -5,16 +5,23 @@
     "paletteString": "344F9E4BFE367D26B7196E2D65109E734D205239F8512106A516CD085415BE09",
     "description1": "Princess of Brigid, she is",
     "description2": "getting used to the language.",
+	"battlePalette": {
+		"hair": ["#c77aa1", "#945175", "#691742"],
+		"primary": ["#a2572f", "#6d3717"],
+		"secondary": ["#2caf2c", "#0f8a0f"],
+		"tertiary": ["#f56f16"]
+	},
     "characterClass": "MYRMIDON_F",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 2,
-      "str": 2,
-      "skl": 3,
-      "spd": 2,
-      "def": 1,
-      "res": 1,
-      "lck": 4
+      "hp": 14,
+      "str": 5,
+      "skl": 8,
+      "spd": 8,
+      "def": 2,
+      "res": 3,
+      "lck": 6
     },
     "growths": {
       "hp": 60,
@@ -22,7 +29,7 @@
       "skl": 45,
       "spd": 45,
       "def": 10,
-      "res": 35,
+      "res": 25,
       "lck": 60
     },
     "weaponRanks": [
@@ -35,7 +42,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 5,
+	"affinity": "anima",
     "originGame": "FE8",
     "eyeX": 2,
     "eyeY": 4,
@@ -48,16 +56,23 @@
     "paletteString": "344FA620FF635F3B7D2AD3252C25E454BD77727B524E4A2DE7205C33BA220A62",
     "description1": "Prince of Feargus, aggressive",
     "description2": "yet trustworthy.",
+	"battlePalette": {
+		"hair": ["#e0d667", "#d4ab46", "#987048"],
+		"primary": ["#575759", "#3d3d43", "#302f42"],
+		"secondary": ["#e8e8e8", "#979799"],
+		"tertiary": ["#94d8f4", "#5383c6", "#273bab"]
+	},
     "characterClass": "EPHRAIM_LORD",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 1,
-      "str": 7,
-      "skl": 3,
-      "spd": 2,
-      "def": 2,
-      "res": 0,
-      "lck": 0
+      "hp": 13,
+      "str": 13,
+      "skl": 8,
+      "spd": 5,
+      "def": 1,
+      "res": 1,
+      "lck": 5
     },
     "growths": {
       "hp": 65,
@@ -78,7 +93,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 5,
+	"affinity": "dark",
     "originGame": "FE8",
     "eyeX": 2,
     "eyeY": 2,
@@ -91,16 +107,23 @@
     "paletteString": "344FDF6F3F477D2ED3252C2587103F737D62783D8D294C25E9189B105608BF77",
     "description1": "Only daughter of House Goneril,",
     "description2": "pays attention to detail.",
+	"battlePalette": {
+		"hair": ["#fccce2", "#ed9dc2", "#c05878"],
+		"primary": ["#4f3b37", "#392323"],
+		"secondary": ["#d92626", "#b31414"],
+		"tertiary": ["#fccce2", "#ed9dc2", "#c05878"]
+	},
     "characterClass": "PIRATE",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 6,
-      "str": 1,
-      "skl": 1,
-      "spd": 4,
-      "def": 0,
-      "res": 0,
-      "lck": 3
+      "hp": 18,
+      "str": 7,
+      "skl": 4,
+      "spd": 5,
+      "def": 2,
+      "res": 3,
+      "lck": 7
     },
     "growths": {
       "hp": 75,
@@ -121,7 +144,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 5,
+	"affinity": "wind",
     "originGame": "FE8",
     "eyeX": 2,
     "eyeY": 4,
@@ -134,16 +158,23 @@
     "paletteString": "344FFF6B7F479E2ED91D6E2DE410464AA63546294330A3382545BA169D23BF77",
     "description1": "Archbishop Rhea's retainer,",
     "description2": "pretty mysterious.",
+	"battlePalette": {
+		"hair": ["#309090", "#306868", "#305050"],
+		"primary": ["#2a4f8d", "#1c2973", "#1b1166"],
+		"secondary": ["#f8d888", "#ede247", "#d4aa2f"],
+		"tertiary": ["#fceeee", "#f8f8d0"]
+	},
     "characterClass": "WYVERN_RIDER",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 3,
-      "str": 3,
-      "skl": 2,
-      "spd": 3,
-      "def": 1,
-      "res": 2,
-      "lck": 1
+      "hp": 18,
+      "str": 8,
+      "skl": 4,
+      "spd": 5,
+      "def": 3,
+      "res": 5,
+      "lck": 2
     },
     "growths": {
       "hp": 75,
@@ -164,7 +195,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 11,
+	"affinity": "anima",
     "originGame": "FE8",
     "eyeX": 2,
     "eyeY": 2,
@@ -177,16 +209,23 @@
     "paletteString": "344FA6205F477D2EF725911D2C25E81809214B29BA221B135C335C5B5B6BDE7B",
     "description1": "Leader of the Alliance,",
     "description2": "he's very strategic.",
+	"battlePalette": {
+		"hair": ["#5e5655", "#4a4240", "#403834"],
+		"primary": ["#e2d1b5", "#e89858", "#ba6d32"],
+		"secondary": ["#dbc322", "#d4ab46", "#886038"],
+		"tertiary": ["#f7f6f2", "#d9d7d2"]
+	},
     "characterClass": "WYVERN_RIDER",
+    "promoted": false,
     "level": 1,
     "bases": {
-      "hp": 0,
-      "str": 1,
-      "skl": 5,
-      "spd": 4,
-      "def": 0,
-      "res": 0,
-      "lck": 5
+      "hp": 14,
+      "str": 4,
+      "skl": 9,
+      "spd": 7,
+      "def": 4,
+      "res": 1,
+      "lck": 7
     },
     "growths": {
       "hp": 50,
@@ -207,7 +246,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 11,
+	"affinity": "wind",
     "originGame": "FE8",
     "eyeX": 2,
     "eyeY": 4,
@@ -220,16 +260,23 @@
     "paletteString": "344F6308DF6F3F477D2ED3252C25BB4E7E63DE7B8614C818091DCE595062D36A",
     "description1": "Cleric of the Blue Lions,",
     "description2": "she loves sweets.",
+	"battlePalette": {
+		"hair": ["#f7f6f2", "#f7dcc6", "#d9ab9c"],
+		"primary": ["#f7f6f2", "#f7dcc6", "#d9ab9c"],
+		"secondary": ["#4f453f", "#423131", "#36272d"],
+		"tertiary": ["#99b4d1", "#8492c6", "#7274b5"]
+	},
     "characterClass": "CLERIC",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 3,
-      "str": 5,
-      "skl": 1,
-      "spd": 1,
-      "def": 0,
-      "res": 4,
-      "lck": 1
+      "hp": 12,
+      "str": 7,
+      "skl": 4,
+      "spd": 2,
+      "def": 3,
+      "res": 8,
+      "lck": 10
     },
     "growths": {
       "hp": 50,
@@ -250,7 +297,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 5,
+	"affinity": "light",
     "originGame": "FE8",
     "eyeX": 4,
     "eyeY": 4,
@@ -263,16 +311,23 @@
     "paletteString": "344F2304DF6F3F477D2ED3252C25FF7F39673146C5286214961C70187F3F5C7F",
     "description1": "The flame emperor of Adrestia,",
     "description2": "determined and bold.",
+	"battlePalette": {
+		"hair": ["#fafafa", "#cccbc8", "#8a8a88"],
+		"primary": ["#b32439", "#851837"],
+		"secondary": ["#2a3353", "#171829"],
+		"tertiary": ["#fadd7f", "#e89858", "#987048"]
+	},
     "characterClass": "KNIGHT_F",
+    "promoted": false,
     "level": 1,
     "bases": {
-      "hp": 1,
-      "str": 5,
-      "skl": 3,
-      "spd": 0,
-      "def": 6,
-      "res": 0,
-      "lck": 0
+      "hp": 13,
+      "str": 7,
+      "skl": 4,
+      "spd": 4,
+      "def": 11,
+      "res": 3,
+      "lck": 4
     },
     "growths": {
       "hp": 60,
@@ -293,7 +348,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 9,
+	"affinity": "ice",
     "originGame": "FE7",
     "eyeX": 2,
     "eyeY": 4,
@@ -306,15 +362,22 @@
     "paletteString": "344F2304DF6F3F477D2ED3252C25C93D115FD767BA2E7F3FFF4FD141DC73FF7F",
     "description1": "The archbishop of the Church,",
     "description2": "of Seiros, gentle yet stern.",
+	"battlePalette": {
+		"hair": ["#b9f6cf", "#89c7ba", "#4b767c"],
+		"primary": ["#ffffff", "#e5f0e1", "#c5d3c0"],
+		"secondary": ["#fadd7f", "#d1af5e", "#987048"],
+		"tertiary": null
+	},
     "characterClass": "MERCENARY",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 3,
-      "str": 1,
-      "skl": 5,
-      "spd": 3,
+      "hp": 23,
+      "str": 4,
+      "skl": 8,
+      "spd": 6,
       "def": 0,
-      "res": 0,
+      "res": 2,
       "lck": 3
     },
     "growths": {
@@ -322,8 +385,8 @@
       "str": 45,
       "skl": 30,
       "spd": 30,
-      "def": 10,
-      "res": 40,
+      "def": 15,
+      "res": 35,
       "lck": 60
     },
     "weaponRanks": [
@@ -336,7 +399,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 5,
+	"affinity": "ice",
     "originGame": "FE8",
     "eyeX": 2,
     "eyeY": 4,
@@ -349,24 +413,31 @@
     "paletteString": "344F6408DF7FD766125E8F55EA38D6057B269F42630CA514C6189F39FF3DFF7F",
     "description1": "Very creepy and bloodthirsty, but",
     "description2": "I guess she's with us.",
+	"battlePalette": {
+		"hair": ["#fda682", "#de9849", "#b57309"],
+		"primary": ["#323233", "#29282a", "#1b181c"],
+		"secondary": ["#fda682", "#de9849", "#b57309"],
+		"tertiary": ["#ff7d7d", "#fe6272"]
+	},
     "characterClass": "THIEF_F",
+    "promoted": false,
     "level": 1,
     "bases": {
-      "hp": 5,
-      "str": 1,
-      "skl": 2,
-      "spd": 5,
-      "def": 0,
-      "res": 0,
-      "lck": 2
+      "hp": 16,
+      "str": 3,
+      "skl": 7,
+      "spd": 12,
+      "def": 1,
+      "res": 1,
+      "lck": 6
     },
     "growths": {
       "hp": 70,
       "str": 35,
       "skl": 40,
       "spd": 50,
-      "def": 10,
-      "res": 30,
+      "def": 15,
+      "res": 25,
       "lck": 70
     },
     "weaponRanks": [
@@ -379,7 +450,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 5,
+	"affinity": "dark",
     "originGame": "FE6",
     "eyeX": 4,
     "eyeY": 4,
@@ -391,17 +463,24 @@
     "portraitPath": "portraits/FE16/byleth.png",
     "paletteString": "344F2304DF6F3F477D2ED3252C25C93D115FD767BA2E7F3FFF4FA514E720FF7F",
     "description1": "A professor at Garreg Mach,",
-    "description2": "wise yet teachable.",
+    "description2": "wise yet reachable.",
+	"battlePalette": {
+		"hair": ["#b9f6cf", "#89c7ba", "#4b767c"],
+		"primary": ["#4f5063", "#3b304d", "#382040"],
+		"secondary": ["#ffffff", "#ddd5d0", "#c1b5ae"],
+		"tertiary": ["#fff99e", "#fadd7f", "#d1af5e"]
+	},
     "characterClass": "EIRIKA_LORD",
+	"promoted": false,
     "level": 1,
     "bases": {
-      "hp": 3,
-      "str": 3,
-      "skl": 2,
-      "spd": 2,
-      "def": 1,
-      "res": 1,
-      "lck": 3
+      "hp": 15,
+      "str": 7,
+      "skl": 6,
+      "spd": 5,
+      "def": 4,
+      "res": 3,
+      "lck": 6
     },
     "growths": {
       "hp": 50,
@@ -422,7 +501,8 @@
       0,
       0
     ],
-    "constitution": 0,
+    "constitution": 5,
+	"affinity": "fire",
     "originGame": "FE8",
     "eyeX": 4,
     "eyeY": 4,
