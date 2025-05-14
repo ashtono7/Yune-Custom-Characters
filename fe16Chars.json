@@ -53,14 +53,14 @@
   {
     "name": "Dmitri",
     "portraitPath": "portraits/FE16/dmitri.png",
-    "paletteString": "344FA620FF635F3B7D2AD3252C25E454BD77727B524E4A2DE7205C33BA220A62",
+    "paletteString": "344F8720FF635F3B7D2AD3252C25BA225C33EE412931A724E4540A62727BBD77",
     "description1": "Prince of Feargus, aggressive",
     "description2": "yet trustworthy.",
 	"battlePalette": {
 		"hair": ["#e0d667", "#d4ab46", "#987048"],
-		"primary": ["#575759", "#3d3d43", "#302f42"],
-		"secondary": ["#e8e8e8", "#979799"],
-		"tertiary": ["#94d8f4", "#5383c6", "#273bab"]
+		"primary": ["#382040", "#3c2f4f", "#4d4966"],
+		"secondary": ["#727a85", "#e8e8e8"],
+		"tertiary": ["#273bab", "#5383c6", "#94d8f4"]
 	},
     "characterClass": "EPHRAIM_LORD",
 	"promoted": false,
