@@ -308,14 +308,14 @@
   {
     "name": "Edelgard",
     "portraitPath": "portraits/FE16/edelgard.png",
-    "paletteString": "344F2304DF6F3F477D2ED3252C25FF7F39673146C5286214961C70187F3F5C7F",
+    "paletteString": "344F8720DF6F3F477D2ED3252C2531463967FF7F4D247020961C7F3FA6245C7F",
     "description1": "The flame emperor of Adrestia,",
     "description2": "determined and bold.",
 	"battlePalette": {
 		"hair": ["#fafafa", "#cccbc8", "#8a8a88"],
-		"primary": ["#b32439", "#851837"],
-		"secondary": ["#2a3353", "#171829"],
-		"tertiary": ["#fadd7f", "#e89858", "#987048"]
+		"primary": ["#6e104a", "#851944", "b32439"],
+		"secondary": ["#382040", "#362f4f"],
+		"tertiary": ["#fadd7f"]
 	},
     "characterClass": "KNIGHT_F",
     "promoted": false,
